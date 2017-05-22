@@ -1,0 +1,35 @@
+/*
+body {
+  background-image: url("http://cdn.pcwallart.com/images/seattle-skyline-wallpaper-1.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+*/
+
+.section-about{
+  background:#efefef;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.section-contact{
+  background:#efefef;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.big-icon{
+  font-size: 2em;
+}
+
+.go-to-font{
+  font-family: helvetica,Arial;
+}
+
+.headerfont{
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+
+ 
